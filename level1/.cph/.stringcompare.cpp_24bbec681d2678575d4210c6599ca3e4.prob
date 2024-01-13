@@ -1,0 +1,1 @@
+{"name":"Local: stringcompare","url":"c:\\Users\\purwa\\Desktop\\all folders\\Codeforces\\stringcompare.cpp","tests":[{"id":1703045958102,"input":"abcdefg\nAbCdEfF","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\purwa\\Desktop\\all folders\\Codeforces\\stringcompare.cpp","group":"local","local":true}

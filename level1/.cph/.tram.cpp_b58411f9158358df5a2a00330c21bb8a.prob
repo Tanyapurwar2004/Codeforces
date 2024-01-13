@@ -1,0 +1,1 @@
+{"name":"Local: tram","url":"c:\\Users\\purwa\\Desktop\\all folders\\Codeforces\\tram.cpp","tests":[{"id":1702824110570,"input":"10\n0 1\n1 0\n0 0\n0 0\n0 0\n0 0\n0 0\n0 0\n0 0\n0 0","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\purwa\\Desktop\\all folders\\Codeforces\\tram.cpp","group":"local","local":true}
