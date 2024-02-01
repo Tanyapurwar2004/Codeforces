@@ -27,8 +27,9 @@ void sieve_of_eratosthenes(int c)
 }
  
 int main(){
-    int n;
+    long n;
     cin>>n;
-    vector<int>arr;
-        sieve_of_eratosthenes(n);
+    for(long i=n+1;i<=2*n;i++){
+        cout<<i<<" ";
+    }
     }

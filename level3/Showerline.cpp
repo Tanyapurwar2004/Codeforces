@@ -22,9 +22,9 @@ int main(){
 
         if(tmp>ans){
             ans=tmp;
-            for(int i=0;i<n;i++){
-            pans[i]=p[i];
-        }
+        //     for(int i=0;i<n;i++){
+        //     pans[i]=p[i];
+        // }
         }
         
     }while(next_permutation(p,p+n));
